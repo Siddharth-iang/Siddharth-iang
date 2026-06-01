@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vemireddy Siddhartha Reddy</h1>
 <h3 align="center">A passionate Computer Science Engineer :)</h3>
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/80aec35f-ed5b-4a5e-b101-bcc19554c114" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth-iang&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth-iang" /> </p>
 
