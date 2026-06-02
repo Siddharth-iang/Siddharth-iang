@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth-iang&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth-iang" /> </p>
 
+<img align="right" alt="Coding" width="250" bottum-up="10" src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" />
 <h3 align="left">About me:</h3>
 <!-- The align="right" here floats the image to the right of the text below it -->
-<img align="right" width="220" height="220" alt="coding" src="https://github.com/user-attachments/assets/730e4f37-2521-4866-af50-4e93c44383a3" />
 
 - 🎓 Computer Science Engineering Student at **NIT Raipur**
 - 💻 Passionate about **Software Development, AI, and Problem Solving**
@@ -33,7 +33,7 @@
 
 <h3 align="left">Profile Stats:</h3>
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth-iang&" alt="siddharth-iang" /></p>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Siddharth-iang&theme=dracula" alt="GitHub Streak" /></a>
 </div>
 
 <br></br>
