@@ -15,9 +15,8 @@
 - 🎓 Computer Science Engineering Student at **NIT Raipur**
 - 💻 Passionate about **Software Development, AI, and Problem Solving**
 - ⚡ Building projects with **React, Python, FastAPI, PostgreSQL, LLM, RAG and Agents**
-- 🔍 Interested in **Web Development, Artificial Intelligence, Open Source, and Product Building**
+- 🔍 Interested in **Web Dev, AI, Open Source, System Design and Product Building**
 - 🎮 When I'm not coding or pushing to my repos, you can probably find me playing Minecraft.
-- 🚀 Love turning ideas into real-world applications
 <br><br><br>
 
 <h3 align="left">Connect with me:</h3>
