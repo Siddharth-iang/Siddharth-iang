@@ -36,7 +36,8 @@
 </div>
 
 <br></br>
-<img width="860" height="230" alt="Siddharth-iang-space-shooter" src="https://github.com/user-attachments/assets/d13cfdb1-0c12-4394-bd29-be6290b7f359" />
+<img width="860" height="230" alt="Siddharth-iang-space-shooter (1)" src="https://github.com/user-attachments/assets/988c2075-26df-499b-b9b7-0341c3860957" />
+
 
 
 
